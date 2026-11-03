@@ -1,0 +1,41 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="150" viewBox="0 0 760 150">
+  <rect width="760" height="150" rx="12" fill="#0D1117"/>
+  <g fill="#38BDF8" opacity=".65">
+    <circle cx="65" cy="25" r="1.5"/>
+    <circle cx="190" cy="55" r="1"/>
+    <circle cx="340" cy="20" r="1.5"/>
+    <circle cx="520" cy="40" r="1"/>
+    <circle cx="690" cy="22" r="1.5"/>
+    <circle cx="110" cy="112" r="1"/>
+    <circle cx="420" cy="120" r="1.5"/>
+    <circle cx="620" cy="105" r="1"/>
+  </g>
+  <g fill="#22D3EE">
+    <path d="M35 65h12v-8h8v8h12v8h-12v8h-8v-8H35z"/>
+    <path d="M85 65h12v-8h8v8h12v8h-12v8h-8v-8H85z"/>
+    <path d="M135 65h12v-8h8v8h12v8h-12v8h-8v-8h-12z"/>
+    <path d="M185 65h12v-8h8v8h12v8h-12v8h-8v-8h-12z"/>
+  </g>
+  <g fill="#2563EB">
+    <path d="M35 92h8v-7h8v7h8v7H51v7h-8v-7h-8z"/>
+    <path d="M85 92h8v-7h8v7h8v7H101v7h-8v-7h-8z"/>
+    <path d="M135 92h8v-7h8v7h8v7H151v7h-8v-7h-8z"/>
+  </g>
+  <g transform="translate(0 0)">
+    <path d="M350 100h24v-12h12v12h12v12h-60v-12h12V88h12v12z" fill="#22D3EE">
+      <animateTransform attributeName="transform" type="translate" values="0 0;8 0;0 0;-8 0;0 0" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M368 75v-13h4v13z" fill="#38BDF8">
+      <animate attributeName="opacity" values="1;.2;1" dur=".6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g fill="#38BDF8">
+    <path d="M690 65h12v-8h8v8h12v8h-12v8h-8v-8h-12z">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-10 0;0 0;10 0;0 0" dur="3s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <path d="M20 132H740" stroke="#164E63" stroke-width="1"/>
+  <text x="380" y="35" fill="#F1F5F9" font-family="monospace" font-size="14" text-anchor="middle" letter-spacing="4">SPACE INVADERS</text>
+  <text x="380" y="143" fill="#22D3EE" font-family="monospace" font-size="8" text-anchor="middle" letter-spacing="3">SYSTEM ONLINE • PLAYER 01</text>
+</svg>
