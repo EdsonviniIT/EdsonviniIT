@@ -10,7 +10,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/EdsonviniIT)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE)]([https://www.linkedin.com/](https://www.linkedin.com/in/edsonviniciusit/))
 
 </div>
 
@@ -89,3 +89,15 @@ Novos projetos individuais em desenvolvimento.
 <sub>São Paulo, Brasil • 2026</sub>
 
 </div>
+
+## `> Projetos`
+
+**Sistema de Gestão — Assistência Técnica de Computadores**
+
+Projeto acadêmico em grupo voltado à modelagem e implementação de um banco de dados para uma empresa de assistência técnica de computadores.
+
+O desenvolvimento envolveu diagramas, estruturação de tabelas, inserção de dados e consultas SQL gerenciais e de auditoria.
+
+**Tecnologias:** MySQL, SQL, HTML, CSS e JavaScript.
+
+[Ver projeto no GitHub](https://github.com/AndreiGabrielSilva/grupo_01)
