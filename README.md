@@ -60,6 +60,19 @@ Tecnologias: HTML, CSS e JavaScript.
 
 Novos projetos individuais em desenvolvimento.
 
+
+## `> Projetos`
+
+**Sistema de Gestão — Assistência Técnica de Computadores**
+
+Projeto acadêmico em grupo voltado à modelagem e implementação de um banco de dados para uma empresa de assistência técnica de computadores.
+
+O desenvolvimento envolveu diagramas, estruturação de tabelas, inserção de dados e consultas SQL gerenciais e de auditoria.
+
+**Tecnologias:** MySQL, SQL, HTML, CSS e JavaScript.
+
+[Ver projeto no GitHub](https://github.com/AndreiGabrielSilva/grupo_01)
+
 ## `> Estatísticas do GitHub`
 
 <div align="center">
@@ -90,14 +103,3 @@ Novos projetos individuais em desenvolvimento.
 
 </div>
 
-## `> Projetos`
-
-**Sistema de Gestão — Assistência Técnica de Computadores**
-
-Projeto acadêmico em grupo voltado à modelagem e implementação de um banco de dados para uma empresa de assistência técnica de computadores.
-
-O desenvolvimento envolveu diagramas, estruturação de tabelas, inserção de dados e consultas SQL gerenciais e de auditoria.
-
-**Tecnologias:** MySQL, SQL, HTML, CSS e JavaScript.
-
-[Ver projeto no GitHub](https://github.com/AndreiGabrielSilva/grupo_01)
