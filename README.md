@@ -1,16 +1,17 @@
-## Hi there 👋
+Olá! Sou estudante de ADS 👋
+Estudante de Análise e Desenvolvimento de Sistemas, interessado em tecnologia, desenvolvimento de software e banco de dados.
 
-<!--
-**EdsonviniIT/EdsonviniIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tecnologias em aprendizado
+HTML
+CSS
+SQL
+Python
+C
+JavaScript
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interesses profissionais
+- Desenvolvimento de sistemas.
+- Banco de dados.
+- Automação de processos.
+- Tecnologia aplicada ao setor de seguros.
+Objetivo: desenvolver soluções tecnológicas e construir experiência prática por meio de projetos.
