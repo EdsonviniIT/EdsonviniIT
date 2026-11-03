@@ -1,32 +1,91 @@
-# Olá! Eu sou estudante de Análise e Desenvolvimento de Sistemas 👋
 
-Sou estudante de ADS, interessado em desenvolvimento de software, banco de dados e tecnologia aplicada à resolução de problemas.
+<div align="center">
 
-Atualmente, estou desenvolvendo meus conhecimentos em programação, modelagem de dados e construção de sistemas, buscando transformar o aprendizado acadêmico em projetos práticos.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=EDSON+VINICIUS;ANALYSIS+%26+SYSTEMS+DEVELOPMENT;SOFTWARE+%7C+DATABASE+%7C+TECHNOLOGY" alt="Apresentação animada"/>
 
-## 💻 Tecnologias e conhecimentos
+<br>
 
-- HTML e CSS
-- SQL e modelagem de dados
-- Linguagem C
-- Python (em aprendizado)
-- JavaScript (em aprendizado)
+<img src="./assets/space-invaders.svg" width="100%" alt="Space Invaders animado"/>
 
-## 🎯 Interesses profissionais
+<br>
 
-- Desenvolvimento de sistemas
-- Banco de dados
-- Análise e organização de dados
-- Automação de processos
-- Tecnologia aplicada ao setor de seguros
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/EdsonviniIT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/)
 
-## 📚 Atualmente estudando
+</div>
 
-- Análise e Desenvolvimento de Sistemas
-- Estrutura de dados e lógica de programação
-- Modelagem e normalização de bancos de dados
-- Desenvolvimento de projetos acadêmicos e pessoais
+---
 
-## 📫 Contato
+## `> Sobre mim`
 
-- LinkedIn: www.linkedin.com/in/edsonviniciusIT
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, interessado em desenvolvimento de software, banco de dados e tecnologia aplicada à resolução de problemas.
+
+Minha trajetória profissional também envolve experiência com atendimento ao cliente, processos operacionais e mercado de seguros.
+
+Atualmente, busco ampliar meus conhecimentos técnicos e transformar o aprendizado acadêmico em soluções práticas.
+
+## `> Tecnologias e ferramentas`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,mysql,git,github,vscode&theme=dark" alt="Tecnologias"/>
+
+</div>
+
+**Conhecimentos e estudos:**
+
+- HTML e CSS — conhecimentos em desenvolvimento web.
+- SQL e modelagem de dados — estudos e projetos acadêmicos.
+- C — lógica de programação e estruturas básicas.
+- Python — em aprendizado.
+- JavaScript — em aprendizado.
+
+## `> Interesses profissionais`
+
+- Desenvolvimento de sistemas.
+- Banco de dados e modelagem de dados.
+- Análise e organização de informações.
+- Automação de processos.
+- Tecnologia aplicada ao setor de seguros.
+
+## `> Projetos`
+
+**Planeta em Foco**
+
+Projeto acadêmico de desenvolvimento web, com participação como colaborador.
+
+Tecnologias: HTML, CSS e JavaScript.
+
+[Ver repositório](https://github.com/AndreiGabrielSilva/Planeta-em-Foco)
+
+Novos projetos individuais em desenvolvimento.
+
+## `> Estatísticas do GitHub`
+
+<div align="center">
+
+![Seguidores](https://img.shields.io/github/followers/EdsonviniIT?style=for-the-badge&logo=github&label=SEGUIDORES&color=0E7490)
+
+![Repositórios públicos](https://img.shields.io/github/repos/EdsonviniIT?style=for-the-badge&logo=github&label=REPOSIT%C3%93RIOS&color=2563EB)
+
+![Estrelas](https://img.shields.io/github/stars/EdsonviniIT?style=for-the-badge&logo=github&label=ESTRELAS&color=164E63)
+
+</div>
+
+## `> Histórico de contribuições`
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/22D3EE/EdsonviniIT" alt="Gráfico de contribuições do GitHub" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**BUILDING KNOWLEDGE. DEVELOPING SOLUTIONS.**
+
+<sub>São Paulo, Brasil • 2026</sub>
+
+</div>
